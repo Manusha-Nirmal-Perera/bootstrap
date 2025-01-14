@@ -22,5 +22,5 @@ This project can be used as a starting point for:
 
 ## Screenshots
 <div align="center">
-    ![Preview Image](./image.png)
+    <img src="./image.png" alt="Preview Image">
 </div>
